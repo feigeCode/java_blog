@@ -270,7 +270,7 @@ mybatis:
 
 ## 1.7、项目结构
 
-![image-20200217000642793](.\整合springboot.assets\image-20200217000642793.png)
+![image-20200217000642793](./整合springboot.assets/image-20200217000642793.png)
 
 # 2、SpringSecurity
 
