@@ -57,6 +57,6 @@ PS：需要注意的是，第四种情况，是针对云服务器而言的，一
 
 下边是开启步骤：
 
-![image-20200216222953874]/部署springboot.assets/image-20200216222953874.png)x
+![image-20200216222953874]/部署springboot.assets/image-20200216222953874.png)
 
-![image-20200216223050452](./部署springboot.assets/image-20200216223050452.png)
+![image-20200216223050452](/部署springboot.assets/image-20200216223050452.png)
