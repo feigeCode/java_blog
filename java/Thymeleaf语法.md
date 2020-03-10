@@ -11,7 +11,7 @@
 
 ## 1.2、thyemeleaf的配置类
 
-![image-20200218200616530](.\Thymeleaf语法.assets\image-20200218200616530.png)
+![image-20200218200616530](./Thymeleaf语法.assets/image-20200218200616530.png)
 
 ~~~java
 @ConfigurationProperties(
