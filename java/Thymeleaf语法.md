@@ -52,7 +52,7 @@ public class ThymeleafProperties {
 
 **一、我们可以使用任意的 th:attr 来替换Html中原生属性的值！【测试】 全部属性可以参考官网文档#10； th语法**
 
-![img](.\Thymeleaf语法.assets\thymeleaf.png)
+![img](./Thymeleaf语法.assets/thymeleaf.png)
 
 标准表达式功能的快速摘要：
 
