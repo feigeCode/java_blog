@@ -30,7 +30,7 @@ SELECT * FROM books
 
 1. 新建一Maven项目！ ssmbuild ， 添加web的支持
 
-   ![image-20200128134359317](.\ssm整合.assets\image-20200128134359317.png)
+   ![image-20200128134359317](./ssm整合.assets/image-20200128134359317.png)
 
 2. 导入相关的pom依赖！
 
